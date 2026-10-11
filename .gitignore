@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Variáveis e segredos
+.env
+*.key
+
+# IDEs
+.vscode/
+.idea/
+
+calculadora.ui
+login.py
+login.ui
+ui_calculadora.py
